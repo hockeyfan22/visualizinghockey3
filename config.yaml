@@ -1,4 +1,4 @@
-baseURL: http://example.com
+baseURL: "//visualizinghockey.com"
 languageCode: en-us
 defaultContentLanguage: en
 title: Cupper
