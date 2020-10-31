@@ -1,4 +1,5 @@
-baseURL: visualizinghockey.com
+baseURL = ""
+relativeURLs = "True"
 languageCode: en-us
 defaultContentLanguage: en
 title: Cupper
