@@ -14,10 +14,6 @@
   translation: "dark theme:"
 - id: table_of_contents
   translation: Table of contents
-- id: publish_date
-  translation: "Publish date:"
-- id: last_updated
-  translation: "Last updated:"
 - id: tags
   translation: "Tags:"
 - id: aria_label_tags
