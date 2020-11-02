@@ -7,8 +7,21 @@ categories: []
 tags: []
 ---
 
-#Reason 1: It's not 2014
-A lot has been ade
+### Reason 1: It's not 2014
+And for that matter, it's not 2009 or 2015 either. You may be dissatisfied with the current Leafs playoff success - but hovering over the years below should make you feel better about things. It displays cumulative points over the course of an 82 game season for the Leafs going back to 1999.
 
 <iframe width="100%" height="684" frameborder="0"
   src="https://observablehq.com/embed/@hockeyfan22/multi-line-chart?cell=chart"></iframe>
+
+
+### Reason 2: We've escaped cap hell
+Our prayers to Brandon Pridham panned out! We were all doing that right? Well going into the 2020-21 season, the Leafs have managed to make some *gritty* improvements to their bottom six without trading Nylander, despite the insistence from mainstream media. Click through below to see the Leafs salary distribution according to CapFriendly, as well as the other teams from around the NHL.
+
+<iframe width="100%" height="767" frameborder="0"
+  src="https://observablehq.com/embed/@hockeyfan22/nhl-salary-cap?cell=viewof+dd1&cell=chart"></iframe>
+  
+### Reason 3: The studs are studs
+Sometimes it's easy to forget that the Leafs are paying these guys for a reason - it's that they are quite good at hockey. Instead of arguing over the value provided by these contracts - I'll leave to play around with the chart below, which displays the G/60 in all situations for the core.
+
+<iframe width="100%" height="849" frameborder="0"
+  src="https://observablehq.com/embed/@hockeyfan22/fancy-radial-bar-chart?cell=viewof+options&cell=chart"></iframe>
