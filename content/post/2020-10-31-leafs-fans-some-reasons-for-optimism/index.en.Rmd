@@ -14,7 +14,7 @@ And for that matter, it's not 2009 or 2015 either. You may be dissatisfied with 
   src="https://observablehq.com/embed/@hockeyfan22/multi-line-chart?cell=chart"></iframe>
 
 
-### Reason 2: We've escaped cap hell
+### Reason 2: We've Escaped Cap Hell
 Our prayers to Brandon Pridham panned out! We were all doing that right? Well going into the 2020-21 season, the Leafs have managed to make some *gritty* improvements to their bottom six without trading Nylander, despite the insistence from mainstream media. Click through below to see the Leafs salary distribution according to CapFriendly, as well as the other teams from around the NHL.
 
 <iframe width="100%" height="767" frameborder="0"
